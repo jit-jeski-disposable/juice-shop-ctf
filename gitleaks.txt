@@ -1,1 +1,1 @@
-GIT_TOKEN="test2"
+GIT_TOKEN="test"
